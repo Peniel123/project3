@@ -10,4 +10,4 @@ data:
   AWS_BUCKET: peniels-bucket2
   AWS_REGION: us-east-1AWS_PROFILE=peniel
   JWT_SECRET: testing
-  URL: http://localhost:8100
+  URL: http://a67f68b27517a48ea941f3a8efd831ca-999958609.us-east-2.elb.amazonaws.com:8100
